@@ -10,5 +10,5 @@ a simple python todolist.<br>
 
 ---
 ## 使用說明
-執行exe資料夾裡的"todolist.exe"即可。
-儲存的txt檔會位於該執行檔下同目錄，檔名"todo"。
+執行exe資料夾裡的"todolist.exe"即可。<br>
+儲存的txt檔會位於該執行檔下同目錄，檔名為"todo.txt"。
