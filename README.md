@@ -1,6 +1,6 @@
 # ToDoList-PyQt5
-a simple python todolist.
-![imgur]( https://imgur.com/VHTyYws "main_window" )
+a simple python todolist.<br>
+![imgur]( https://imgur.com/VHTyYws.jpg "main_window" )
 
 ---
 ## 功能
