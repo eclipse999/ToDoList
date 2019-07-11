@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>iconfinder_document-03_1622833.png</file>
+    <file>iconfinder_draw-08_725558.png</file>
+    <file>iconfinder_icon-33-clipboard-add_315154.png</file>
+    <file>iconfinder_Open_1493293.png</file>
+    <file>iconfinder_simpline_53_2305609.png</file>
+    <file>iconfinder_trash_4696642.png</file>
+  </qresource>
+</RCC>
